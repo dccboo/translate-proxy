@@ -1,9 +1,0 @@
-{
-  "regions": ["iad1"], 
-  "functions": {
-    "api/translate.js": {
-      "memory": 256,
-      "maxDuration": 10
-    }
-  }
-}
